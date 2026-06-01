@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Reviewer"
+  short_description: "Blunt high-bar engineering resume review"
+  default_prompt: "Use $resume-reviewer to review this software engineering resume with blunt hiring-manager feedback."
